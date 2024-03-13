@@ -4,3 +4,5 @@ tarefa feita em sala com codigos par ou inpar ,primeiro começei a fazer funcion
 
 # FUNÇOES 
 ele verifica se é inpar ou par, se é redondo ou não e se é negativo, positivo ou neutro.
+# FONTES
+fonte foi varias pesquisas do google e ajuda das colegas.
